@@ -22,7 +22,10 @@ The empirical approach developed here, brings some good insights on the several 
 <p align="center">
   <img src="https://github.com/Mehdi2402/images/blob/main/pso_viz_particules.PNG?raw=true" />
 </p>
-
+## Swarm size and (c1, c2) parameters effects on the number of iterations
+<p align="center">
+  <img src="https://github.com/Mehdi2402/images/blob/main/pso_swarmsize.png?raw=true" />
+</p>
 ## Convergence speed depending on parameters (c1 and c2)
 <p align="center">
   <img src="https://github.com/Mehdi2402/images/blob/main/pso_convergence_speed.PNG?raw=true" />
