@@ -1,4 +1,4 @@
-# Study of the particule swarm optimization algorithm
+# PSO - Study of the particule swarm optimization algorithm
 
 ## Abstract
 
