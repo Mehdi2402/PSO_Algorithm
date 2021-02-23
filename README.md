@@ -16,6 +16,13 @@ The empirical approach developed here, brings some good insights on the several 
   <img src="https://github.com/Mehdi2402/images/blob/main/pso_schwefel.PNG?raw=true" />
 </p>
 
+## Visualizing particle movement depending on parameters (c1 and c2)
+### The arbitrage between search space and precision
+
+<p align="center">
+  <img src="https://github.com/Mehdi2402/images/blob/main/pso_viz_particules.PNG?raw=true" />
+</p>
+
 ## Convergence speed depending on parameters (c1 and c2)
 <p align="center">
   <img src="https://github.com/Mehdi2402/images/blob/main/pso_convergence_speed.PNG?raw=true" />
@@ -25,9 +32,4 @@ The empirical approach developed here, brings some good insights on the several 
   <img src="https://github.com/Mehdi2402/images/blob/main/pso_heatmap.png?raw=true" />
 </p>
 
-## Visualizing particle movement depending on parameters (c1 and c2)
-### The arbitrage between search space and precision
 
-<p align="center">
-  <img src="https://github.com/Mehdi2402/images/blob/main/pso_viz_particules.PNG?raw=true" />
-</p>
