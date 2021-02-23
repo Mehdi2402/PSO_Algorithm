@@ -22,7 +22,7 @@ The empirical approach developed here, brings some good insights on the several 
 </p>
 
 <p align="center">
-  <img src="https://github.com/Mehdi2402/images/blob/main/pso_heatmap.PNG?raw=true" />
+  <img src="https://github.com/Mehdi2402/images/blob/main/pso_heatmap.png?raw=true" />
 </p>
 
 ## Visualizing particle movement depending on parameters (c1 and c2)
